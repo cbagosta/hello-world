@@ -1,2 +1,2 @@
 # hello-world
-CSC154 Lesson 5 Lab 3
+GitHub Exercise hello! This is my CSC154 Lab 2 Github exercise.
